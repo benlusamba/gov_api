@@ -9,7 +9,6 @@ Open source library for Federal Government Data
 ## Install
 ```
 pip install gov_api
-
 ```
 
 # Permissions
